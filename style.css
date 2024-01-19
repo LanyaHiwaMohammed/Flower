@@ -1,0 +1,25 @@
+.div1{
+    background-color: floralwhite;
+    align-items: center;
+    text-align: center;
+    width: 1330px;
+    height: 60px;
+}
+.div2{
+    height: 460px;
+    width: 990px;
+    background-image:url('ro.bmp');
+   align-self: center;
+}
+.p{
+    text-size-adjust: 28px;
+}
+.t{
+    width: 990px;
+    height: 60px;
+    size: 28px;
+}
+.b{
+    background-color: floralwhite;
+}
+   
